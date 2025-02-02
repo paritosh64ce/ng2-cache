@@ -1,4 +1,0 @@
-/**
- * @license ng2-cache
- * MIT license
- */

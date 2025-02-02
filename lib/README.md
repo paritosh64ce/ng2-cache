@@ -54,10 +54,6 @@ To create a production bundle:
 npm run build
 ```
 
-### TODO:
-- Add unit tests
-- Integrate with GitHub Actions
-
 
 ## License
 

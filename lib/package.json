@@ -1,0 +1,42 @@
+{
+  "name": "@pscoped/ng2-cache",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Paritosh Patel",
+  "contributors": [
+    {
+      "name": "Paritosh Patel",
+      "email": "13868399+paritosh64ce@users.noreply.github.com",
+      "url": "https://simplyfyingtechblog.wordpress.com"
+    }
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "funding": {
+    "type" : "individual",
+    "url" : "https://www.paypal.me/paritosh64patel"
+  },
+  "bugs": {
+    "url": "https://github.com/paritosh64ce/ng2-cache/issues"
+  },
+  "homepage": "https://github.com/paritosh64ce/ng2-cache/tree/ng19",
+  "peerDependencies": {
+    "@angular/common": "^19.0.0",
+    "@angular/core": "^19.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paritosh64ce/ng2-cache.git"
+  },
+  "keywords": [
+    "cache",
+    "javascript",
+    "angular",
+    "angular19",
+    "client-side",
+    "caching"
+  ],
+  "private": false,
+  "sideEffects": false
+}
